@@ -10,8 +10,10 @@
           <b-nav-item to="home">Home</b-nav-item>
           <b-nav-item to="button">Button</b-nav-item>
           <b-nav-item to="cards">Cards</b-nav-item>
+          <b-nav-item to="carousel">Carousel</b-nav-item>
           <b-nav-item to="avatar">Avatar</b-nav-item>
           <b-nav-item to="skeleton">Skeleton</b-nav-item>
+          <b-nav-item to="table">Table</b-nav-item>
           <b-nav-item to="about">About</b-nav-item>
 
           <b-nav-item href="#" disabled>Disabled</b-nav-item>

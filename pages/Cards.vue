@@ -1,5 +1,10 @@
 <template>
   <div>
+    <p>
+      <a href="https://bootstrap-vue.org/docs/components/card" target="_blank"
+        >Reference 🤓</a
+      >
+    </p>
     <b-card-group deck>
       <Card></Card>
       <Card></Card>

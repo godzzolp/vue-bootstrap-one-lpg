@@ -15,12 +15,20 @@ export default new VueRouter({
       component: () => import("./pages/Cards.vue")
     },
     {
+      path: "/carousel",
+      component: () => import("./pages/Carousel.vue")
+    },
+    {
       path: "/about",
       component: () => import("./pages/About.vue")
     },
     {
       path: "/button",
       component: () => import("./pages/Button.vue")
+    },
+    {
+      path: "/table",
+      component: () => import("./pages/Table.vue")
     },
     {
       path: "/skeleton",
