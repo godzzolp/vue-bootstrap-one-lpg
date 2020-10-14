@@ -11,6 +11,10 @@ export default new VueRouter({
       component: () => import("./pages/Home.vue")
     },
     {
+      path: "/cards",
+      component: () => import("./pages/Cards.vue")
+    },
+    {
       path: "/about",
       component: () => import("./pages/About.vue")
     },
